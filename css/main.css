@@ -1,0 +1,23 @@
+/* ---------------------------
+
+Resources
+
+- Responsive Images 101
+https://cloudfour.com/thinks/responsive-images-101-definitions/
+
+- w descriptors and sizes: Under the hood
+https://beta.observablehq.com/@eeeps/w-descriptors-and-sizes-under-the-hood
+
+- Alt-texts: The Ultimate Guide
+https://axesslab.com/alt-texts/
+
+--------------------------- */
+
+/* --- flexible images --- */
+
+img {
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+  }
